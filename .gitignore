@@ -2,3 +2,4 @@
 data/McDonalds-Barcelona2.csv
 data/McDonalds-Barcelona.csv
 *.pkl
+*.keras
